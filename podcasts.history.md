@@ -46,6 +46,8 @@ http://feeds.megaphone.fm/watergate
 https://feeds.npr.org/510333/podcast.xml
 # What'sHerName
 https://feeds.megaphone.fm/NSR7999761010
+# The Wild West Extravaganza
+https://feeds.megaphone.fm/RVS2806063932
 # Wind of Change
 https://feeds.megaphone.fm/wind-of-change-wide
 # You're Dead To Me
