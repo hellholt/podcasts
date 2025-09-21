@@ -26,6 +26,8 @@ https://feed.podbean.com/historycachepodcast/feed.xml
 https://historyofrome.libsyn.com/rss
 # The History of Sex
 https://feed.podbean.com/historyofsexpod/feed.xml
+# The Industrial Revolutions
+https://www.spreaker.com/show/4819349/episodes/feed
 # The Monday American: American History Podcast
 https://themondayamerican.libsyn.com/rss
 # One Year
