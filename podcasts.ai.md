@@ -1,5 +1,3 @@
-# Complexity (Santa Fe Institute)
-https://feeds.simplecast.com/OzDH_At2
 # The Daily AI Brief
 https://anchor.fm/s/f7cac464/podcast/rss
 # Generally Intelligent

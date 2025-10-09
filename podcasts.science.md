@@ -2,6 +2,8 @@
 https://anchor.fm/s/6b89199c/podcast/rss
 # The Common Descent Podcast
 https://feed.podbean.com/commondescentpodcast/feed.xml
+# Complexity (Santa Fe Institute)
+https://feeds.simplecast.com/OzDH_At2
 # The Constant: A History of Getting Things Wrong
 https://feeds.megaphone.fm/ADV8582947768
 # The Curious Cases of Rutherford & Fry
