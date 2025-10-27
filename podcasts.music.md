@@ -8,7 +8,7 @@ https://audioboom.com/channels/4867717.rss
 https://feeds.megaphone.fm/dissectwide
 # The Great Albums
 https://thegreatalbums.libsyn.com/rss
-# A History of Rock Music in 500 Songs
+# A History of Rock Music in 500 Songs (#PP)
 https://500songs.com/feed/podcast/a-history-of-rock-music-in-500-songs/
 # I'm in Love With That Song
 https://feeds.megaphone.fm/lovethatsong
