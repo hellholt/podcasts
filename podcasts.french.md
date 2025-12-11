@@ -10,6 +10,8 @@ https://feeds.acast.com/public/shows/66057de88268a800162cadf2
 https://feeds.fireside.fm/easyfrench/rss
 # Franc-Parler (~B1)
 https://feeds.acast.com/public/shows/66068adc53b2df00166084d8
+# French Baratin (~B2)
+https://feed.ausha.co/Ln46Vf3gQEe0
 # French Mornings With Elisa (~A2-B1)
 https://anchor.fm/s/ef00a2cc/podcast/rss
 # French Voices (~C1)
