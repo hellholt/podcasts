@@ -6,15 +6,21 @@ https://feeds.acast.com/public/shows/6601497adf32970017ab72ae
 https://feeds.acast.com/public/shows/47990e88-454b-4e3b-bf78-75a172c33184
 # Culture General (B1)
 https://feeds.acast.com/public/shows/66057de88268a800162cadf2
+# Easy French (~B1)
+https://feeds.fireside.fm/easyfrench/rss
 # Franc-Parler (~B1)
 https://feeds.acast.com/public/shows/66068adc53b2df00166084d8
+# French Mornings With Elisa (~A2-B1)
+https://anchor.fm/s/ef00a2cc/podcast/rss
 # French Voices (~C1)
 https://frenchyourway.com.au/category/frenchvoices/feed
+# French With Panache (~B1)
+https://anchor.fm/s/e5f21e2c/podcast/rss
 # Histoire (~B1)
 https://feeds.acast.com/public/shows/6605920d743327001649c686
 # Impolyglot (~B1)
 https://anchor.fm/s/6aa8718/podcast/rss
-# InnerFrench (~A2)
+# InnerFrench (~A1-A2)
 https://podcast.innerfrench.com/feed.xml
 # L'Heure de Monde (~B2)
 https://feeds.360.audion.fm/HZrgBsvnXo8yqsqsP7bI7
@@ -24,8 +30,12 @@ https://feeds.acast.com/public/shows/66068d998268a800165e07b2
 https://feeds.acast.com/public/shows/le-fil-ia
 # Le Français avec Fluidité (~B1)
 https://lefranchute.libsyn.com/rss
+# Little Talk in Slow French (~A2)
+https://www.spreaker.com/show/6084166/episodes/feed
 # Maintenant, vous savez (~C1-C2)
 https://feeds.megaphone.fm/BABA2900401712
+# One Thing in a French Day (~B1)
+https://onethinginafrenchday.podbean.com/feed.xml
 # Philosophy Is Sexy (~C1-C2)
 https://feeds.audiomeans.fr/feed/a3649671-7430-43e2-8bc0-8a0550dbd531.xml
 # Pourquoi donc ? (~B1)
