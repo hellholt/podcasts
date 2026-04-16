@@ -8,6 +8,8 @@ https://feeds.acast.com/public/shows/47990e88-454b-4e3b-bf78-75a172c33184
 https://feeds.acast.com/public/shows/66057de88268a800162cadf2
 # Easy French (~B1)
 https://feeds.fireside.fm/easyfrench/rss
+# Français Authentique
+https://francaisauthentique.libsyn.com/rss
 # Franc-Parler (~B1)
 https://feeds.acast.com/public/shows/66068adc53b2df00166084d8
 # French Baratin (~B2)
