@@ -14,6 +14,8 @@ https://thespelunkyshowlike.libsyn.com/rss
 http://airpodcast.com/category/gamedevsquest/feed/
 # The Game Design Round Table
 https://tgdrt.libsyn.com/rss
+# Game Studies Study Buddies
+http://rangedtouch.com/category/gamestudiesstudybuddies/feed/
 # Game Wisdom
 https://game-wisdom.com/feed/podcast
 # Games We Never Play
