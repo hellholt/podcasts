@@ -5,7 +5,7 @@ https://feeds.acast.com/public/shows/0c3c53a1-180f-435a-9453-cec3883b4ada
 # Coffee Break German Advanced (~B1-B2)
 https://feeds.acast.com/public/shows/coffee-break-german-advanced
 # Easy German (~A1-A2)
-https://proxyfeed.svmaudio.com/feeds/easygerman/feed.xml
+https://easygerman.libsyn.com/rss
 # Langsam gesprochene Nachrichten (~B1-B2)
 https://iono.fm/rss/chan/2276
 # Langsam gesprochene Nachrichten (~B1-B2) 2? WTF?
